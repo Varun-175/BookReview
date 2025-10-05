@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Name
 
 **A brief project description summarizing key features and purpose.**
@@ -28,3 +29,6 @@
 ### Installation
 
 1. Clone the repository:  
+=======
+# BookReview
+>>>>>>> 76419b982393d40bd90afc2b8b51d0a0c22fe6b4
