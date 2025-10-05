@@ -1,34 +1,52 @@
 <<<<<<< HEAD
-# Project Name
+BookReview
+A comprehensive book review platform featuring user authentication, CRUD operations, and responsive design.
 
-**A brief project description summarizing key features and purpose.**
+Features
+React frontend powered by Vite for fast development
 
----
+Secure user authentication with JWT tokens
 
-## Features
+Role-based access control for protected routes
 
-- React frontend powered by Vite for fast development  
-- Secure user authentication with JWT tokens  
-- Role-based access control for protected routes  
-- Express backend with REST API proxying in development  
-- Mobile-friendly local development setup (access dev server on local network)  
-- Environment configuration and secure token management  
+Express backend with REST API proxying in development
 
----
+Mobile-friendly local development setup (access dev server on local network)
 
-## Getting Started
+Environment configuration and secure token management
 
-### Prerequisites
+Robust review and book management system with ratings and comments
 
-- Node.js (v16 or higher recommended)  
-- npm or yarn  
-- MongoDB or your configured database  
+Integration with MongoDB for persistent data storage
 
----
+User profile pages showing book and review statistics
 
-### Installation
+Getting Started
+Prerequisites
+Node.js (v16 or higher recommended)
 
-1. Clone the repository:  
-=======
-# BookReview
->>>>>>> 76419b982393d40bd90afc2b8b51d0a0c22fe6b4
+npm or yarn
+
+MongoDB or your configured database
+
+Installation
+Clone the repository:
+
+text
+git clone https://github.com/Varun-175/BookReview.git
+Install dependencies for backend and frontend:
+
+text
+cd backend
+npm install
+cd ../frontend
+npm install
+Set up environment configuration files based on .env.example.
+
+Run the backend and frontend servers with your preferred commands.
+
+Sample Login Credentials
+Email: w489072@gmail.com
+Password: Varun@2005
+
+Use these credentials to explore the platform's login-protected features.
