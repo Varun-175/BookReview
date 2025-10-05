@@ -50,3 +50,6 @@ Email: w489072@gmail.com
 Password: Varun@2005
 
 Use these credentials to explore the platform's login-protected features.
+
+Frontend Deployment Link: http://localhost:5173/
+Backend Deployment Link: http://localhost:5000
